@@ -1,6 +1,19 @@
 #KALO MAU RECODE KASIH NAMA AUTHORNYA TOD :V
 #OFICIAL TEAM : Midnight Coders Team - Makasar Code Xploit - Indonesia Dark Code
 #HACKER KOK RECODE SIH:v
+
+
+########################################################
+####                                                ####
+####         ______                                 ####
+####        / / ___|   _ _ __ _   ___  __           ####
+####       / / |  | | | | '__| | | \ \/ /           ####
+####    _ / /| |__| |_| | |  | |_| |>  <            ####
+####   (_)_/  \____\__, |_|   \__,_/_/\_\           ####
+####               |___/                            ####
+####                                                ####
+########################################################
+
 import sys
 import os
 import base64
